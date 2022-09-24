@@ -33,8 +33,5 @@ if (number < 100)
 else
 {
     char thirdSimbol = ThirdNumChar(number.ToString());
-    PrintData("Введенное вами число: ", thirdSimbol.ToString());
-
-    int thirdSimbolInt = ThirdNumInt(number);
-    PrintData("Введенное вами число: ", thirdSimbolInt.ToString());
+    PrintData($"{number} -> ", thirdSimbol.ToString());
 }
