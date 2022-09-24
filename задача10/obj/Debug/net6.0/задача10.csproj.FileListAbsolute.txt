@@ -1,0 +1,15 @@
+D:\Семинар 2_дз\задача10\obj\Debug\net6.0\задача10.csproj.AssemblyReference.cache
+D:\Семинар 2_дз\задача10\obj\Debug\net6.0\задача10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинар 2_дз\задача10\obj\Debug\net6.0\задача10.AssemblyInfoInputs.cache
+D:\Семинар 2_дз\задача10\obj\Debug\net6.0\задача10.AssemblyInfo.cs
+D:\Семинар 2_дз\задача10\obj\Debug\net6.0\задача10.csproj.CoreCompileInputs.cache
+D:\Семинар 2_дз\задача10\bin\Debug\net6.0\задача10.exe
+D:\Семинар 2_дз\задача10\bin\Debug\net6.0\задача10.deps.json
+D:\Семинар 2_дз\задача10\bin\Debug\net6.0\задача10.runtimeconfig.json
+D:\Семинар 2_дз\задача10\bin\Debug\net6.0\задача10.dll
+D:\Семинар 2_дз\задача10\bin\Debug\net6.0\задача10.pdb
+D:\Семинар 2_дз\задача10\obj\Debug\net6.0\задача10.dll
+D:\Семинар 2_дз\задача10\obj\Debug\net6.0\refint\задача10.dll
+D:\Семинар 2_дз\задача10\obj\Debug\net6.0\задача10.pdb
+D:\Семинар 2_дз\задача10\obj\Debug\net6.0\задача10.genruntimeconfig.cache
+D:\Семинар 2_дз\задача10\obj\Debug\net6.0\ref\задача10.dll
