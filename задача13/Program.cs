@@ -18,12 +18,6 @@ char ThirdNumChar(string inputNumber)
     return simbols[2];
 }
 
-int ThirdNumInt(int number)
-{
-    int lenNum = (int)Math.Log10(number);
-    int outNumber = (int)(number/Math.Pow(10,lenNum-2))%10;
-    return outNumber;
-}
 
 void PrintData(string prefix, string value)
 {
