@@ -12,17 +12,9 @@ int number = int.Parse(Console.ReadLine());
 switch (number)
 {
     case 1:
-        Console.WriteLine($"{number} -> нет");
-        break;
     case 2:
-        Console.WriteLine($"{number} -> нет");
-        break;
     case 3:
-        Console.WriteLine($"{number} -> нет");
-        break;
     case 4:
-        Console.WriteLine($"{number} -> нет");
-        break;
     case 5:
         Console.WriteLine($"{number} -> нет");
         break;
