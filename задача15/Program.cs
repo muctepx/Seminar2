@@ -19,8 +19,6 @@ switch (number)
         Console.WriteLine($"{number} -> нет");
         break;
     case 6:
-        Console.WriteLine($"{number} -> да");
-        break;
     case 7:
         Console.WriteLine($"{number} -> да");
         break;
